@@ -1,0 +1,6 @@
+E:\Pranavi\C#\HandsOn\DemoOnPoly\bin\Debug\DemoOnPoly.exe.config
+E:\Pranavi\C#\HandsOn\DemoOnPoly\bin\Debug\DemoOnPoly.exe
+E:\Pranavi\C#\HandsOn\DemoOnPoly\bin\Debug\DemoOnPoly.pdb
+E:\Pranavi\C#\HandsOn\DemoOnPoly\obj\Debug\DemoOnPoly.csprojAssemblyReference.cache
+E:\Pranavi\C#\HandsOn\DemoOnPoly\obj\Debug\DemoOnPoly.exe
+E:\Pranavi\C#\HandsOn\DemoOnPoly\obj\Debug\DemoOnPoly.pdb

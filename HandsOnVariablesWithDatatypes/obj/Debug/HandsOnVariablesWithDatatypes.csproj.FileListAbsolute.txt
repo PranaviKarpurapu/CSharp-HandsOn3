@@ -1,0 +1,6 @@
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\obj\Debug\HandsOnVariablesWithDatatypes.csprojAssemblyReference.cache
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\bin\Debug\HandsOnVariablesWithDatatypes.exe.config
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\bin\Debug\HandsOnVariablesWithDatatypes.exe
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\bin\Debug\HandsOnVariablesWithDatatypes.pdb
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\obj\Debug\HandsOnVariablesWithDatatypes.exe
+E:\Pranavi\C#\HandsOn\HandsOnVariablesWithDatatypes\obj\Debug\HandsOnVariablesWithDatatypes.pdb
